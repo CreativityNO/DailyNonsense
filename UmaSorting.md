@@ -11,7 +11,7 @@
 - diamond
 	- stats 
 - spade
-	- 
+	- pinks
 - heart
 	- debuff
 - club
