@@ -11,9 +11,9 @@
 - diamond
 	- stats 
 - spade
-	- pinks
+	- 
 - heart
-	- whites
+	- debuff
 - club
 	- combination of above
 - sprintShoe
