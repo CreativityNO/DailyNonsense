@@ -1,0 +1,30 @@
+- carrot
+	- Main loop line
+- leafThing
+	- 3 star no other good things
+- drink
+	- ok whites might me useful
+- chocoCake
+	- memories
+- cake
+	- 3 star with good thing like good pink or white
+- diamond
+	- stats 
+- spade
+	- pinks
+- heart
+	- whites
+- club
+	- combination of above
+- sprintShoe
+	- 
+- mileShoe
+	- 
+- mediumShoe
+	- 
+- longShoe
+	- 
+- dirtShoe
+	- 
+- friendPoint
+	- ace
