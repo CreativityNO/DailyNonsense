@@ -21,7 +21,7 @@
 - mileShoe
 	- 
 - mediumShoe
-	- 
+	- npc race med
 - longShoe
 	- 
 - dirtShoe
